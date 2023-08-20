@@ -990,7 +990,7 @@ button.donate_btn {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #000;
+    color: #2308ea;
     font-weight: bold;
 }
 
@@ -1068,8 +1068,9 @@ button.donate_btn {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #222122;
+    background-color: #2d06dc;
     height: auto;
+    color: white;
 }
 
 .footer_logo {
@@ -1104,7 +1105,7 @@ button.donate_btn {
     width: 100%;
     float: left;
     font-size: 17px;
-    color: #afafaf;
+    color: white;
     margin: 5px 0px;
 }
 
