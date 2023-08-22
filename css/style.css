@@ -241,8 +241,9 @@ button {
 }
 
 .logo_style {
-    height: 250px;
-    width: 200px;
+    height:200px;
+    width: 100px;
+    font-size: medium;
     margin-top: -50px;
 }
 
@@ -306,7 +307,7 @@ button.donate_btn {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/Garang\ teaching.JPG);
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
@@ -316,9 +317,9 @@ button.donate_btn {
 }
 
 .banner_taital {
-    width: 45%;
+    width: 100%;
     margin: 0 auto;
-    font-size: 60px;
+    font-size: 25px;
     color: #ffff;
     text-transform: uppercase;
     text-align: center;
@@ -536,8 +537,11 @@ button.donate_btn {
     float: left;
     font-size: 16px;
     margin: 0px;
-    color: #ffffff;
-    padding: 50px 0px;
+    color: white;
+    padding: 10px;
+}
+#p{
+    color: white;
 }
 
 .readmore_bt {
